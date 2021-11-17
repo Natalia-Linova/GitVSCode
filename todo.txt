@@ -1,3 +1,5 @@
-add missing commands
-export cheat sheet as png
-add missing commands
+add missing commands - done
+export cheat sheet as png - done
+add missing commands - task3 - done
+replase mouseover with css hover - task 4
+exclude button from export png - task 5
